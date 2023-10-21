@@ -1,0 +1,12 @@
+#navbar {
+    background-color: rgb(3, 7, 94);
+    border-style: solid;
+    border-color: rgb(24, 243, 255);
+    border-collapse: collapse;
+    color: chocolate;
+    position: sticky;
+    top: 0px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
